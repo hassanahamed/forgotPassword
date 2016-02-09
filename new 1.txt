@@ -1,0 +1,4 @@
+a
+ctrl a
+ctrl c
+ctel v

@@ -12,3 +12,11 @@ this is stored in the mongodb
 then while loggin in if he forgets the password
 
 we can redirect him to a link and update the password
+
+
+
+i have done the whole thing from the link below:
+
+http://sahatyalkabov.com/how-to-implement-password-reset-in-nodejs/
+
+since after this some features have been upgraded and to make the model work after the upgradation i have done this.
